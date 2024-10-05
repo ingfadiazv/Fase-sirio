@@ -1,0 +1,23 @@
+{
+
+   
+  "validUser": {
+ 
+   "username": "JOSE.ARIAS", 
+   "password": "Banco321"
+  },
+  "invalidUser": {
+    "username": "FELIPE.DIAZ12365",
+    "password": "Server2012."
+  },
+  "invalidPass": {
+    "username": "FELIPE.DIAZ",
+    "password": "Server2012.12"
+  },
+
+  "userSuper" : {
+  "username": "silvana.petrillo", 
+  "password": "Banco321"
+  }
+
+}
